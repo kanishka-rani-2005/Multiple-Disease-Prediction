@@ -35,6 +35,7 @@ streamlit-option-menu
 📁 Project Structure
 
 Multiple-Disease-Prediction/
+
 ├── Breast-Prediction/
 
 ├── Diabetes-Prediction/
@@ -93,5 +94,4 @@ streamlit run main.py
 ![WhatsApp Image 2025-05-03 at 18 44 49_45fea0bf](https://github.com/user-attachments/assets/0f6e2058-4986-4aac-b04d-139cfd5c5753)
 ![WhatsApp Image 2025-05-03 at 18 47 20_65741a90](https://github.com/user-attachments/assets/827fc9ee-2713-499f-881a-de7404b7843f)
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
