@@ -21,37 +21,18 @@ Real-time predictions based on user input.
 Utilizes pre-trained machine learning models for each disease.
 
 Modular code structure for easy maintenance and scalability.
-GitHub
+
 
 🛠️ Technologies Used
 Python
-
 Streamlit
-
 scikit-learn
-
 pandas
-
 numpy
-
 matplotlib
-
 streamlit-option-menu
-GitHub
-+3
-GitHub
-+3
-GitHub
-+3
-GitHub
-+1
-Hugging Face
-+1
 
 📁 Project Structure
-css
-Copy
-Edit
 
 Multiple-Disease-Prediction/
 ├── Breast-Prediction/
@@ -71,33 +52,25 @@ Multiple-Disease-Prediction/
 ├── scaler3.sav
 ├── scaler4.sav
 └── parkinsons.data
+
+
 🔧 Installation and Setup
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/kanishka-rani-2005/Multiple-Disease-Prediction.git
 cd Multiple-Disease-Prediction
-Create a virtual environment (optional but recommended):
 
-bash
-Copy
-Edit
+
+Create a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install the required packages:
 
-bash
-Copy
-Edit
+
+Install the required packages:
 pip install -r requirements.txt
 Run the application:
-
-bash
-Copy
-Edit
 streamlit run main.py
+
+
 📷 Screenshots
 ![WhatsApp Image 2025-05-03 at 18 43 39_770e76fd](https://github.com/user-attachments/assets/bea1bc25-b48d-41ca-a38c-c53e89a4a4b0)
 ![WhatsApp Image 2025-05-03 at 18 44 49_45fea0bf](https://github.com/user-attachments/assets/0f6e2058-4986-4aac-b04d-139cfd5c5753)
