@@ -72,6 +72,7 @@ Multiple-Disease-Prediction/
 
 🔧 Installation and Setup
 Clone the repository:
+
 git clone https://github.com/kanishka-rani-2005/Multiple-Disease-Prediction.git
 cd Multiple-Disease-Prediction
 
