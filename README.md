@@ -36,21 +36,37 @@ streamlit-option-menu
 
 Multiple-Disease-Prediction/
 ├── Breast-Prediction/
+
 ├── Diabetes-Prediction/
+
 ├── Heart-Disease/
+
 ├── Lung_Cancer/
+
 ├── Parkinson_Disease/
+
 ├── main.py
+
 ├── requirements.txt
+
 ├── breast_cancer.sav
+
 ├── diabetes_model.sav
+
 ├── heartdisease.sav
+
 ├── lung_cancer.sav
+
 ├── parkinsons_model.sav
+
 ├── scaler.sav
+
 ├── scaler2.sav
+
 ├── scaler3.sav
+
 ├── scaler4.sav
+
 └── parkinsons.data
 
 
