@@ -217,7 +217,7 @@ elif(selected=="Parkinson's Disease Prediction"):
 
         if(parkinsons_predict[0]==1):
             parkinsons_diagnosis='Patient has Parkinson\'s disease'
-        elif (parkinsons_predict[0==-1]):
+        elif (parkinsons_predict[0]==-1):
             parkinsons_diagnosis='Unable to predict'
         else:
             parkinsons_diagnosis='Patient does not have Parkinson\'s disease'
